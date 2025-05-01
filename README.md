@@ -46,6 +46,7 @@ It demonstrates data cleaning, EDA, and dashboard development.
 
 
 📎 How to Reproduce
+
 1.Clone this repository
 
 2.Run eda_cleaning.py to prepare the cleaned CSV
@@ -55,5 +56,7 @@ It demonstrates data cleaning, EDA, and dashboard development.
 4.Customize or publish to Power BI Service
 
 👤 Author
+
 Sanduni Dissanayaka
+
 📍 GitHub Profile :https://github.com/SanduniDisanayakaCS/
